@@ -205,8 +205,7 @@ Feel free to fork this repository and submit a pull request.
 MBA in Data Science & AI  
 Chandigarh University
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+
 
 ---
 
